@@ -112,15 +112,3 @@ The Redox keyboard uses two different wireless implementations, for simplicity I
 | 1u    |  54 |                                                                              |
 
 > :information_source: On [pimpmykeyboard.com](https://pimpmykeyboard.com/sa-1976-keyset-two-shot/) site you can find a SA 1976 keyset kit specifically made for the Redox keyboard: the "Ergo Redox kit (12 keys)".
-
-## Affiliations
-
-In partnership with Falbatech you can now use the code "**mattdibi05**" on Falbatech's store for a 5% OFF special discount.
-
-## Donations
-
-If you've read this far and found something useful, please consider donating to help me maintain and further develop this project.
-
-<p align="center">
-<a href="https://www.paypal.me/MattiaDalBen"><img src="img/donate-button.png" alt="Donate button" width=300/></a>
-</p>
